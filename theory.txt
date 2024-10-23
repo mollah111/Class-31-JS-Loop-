@@ -1,0 +1,39 @@
+
+
+============Loop===========
+
+1. for loop
+2. foreach loop
+3. while
+4. do while
+
+
+=> foreach loop.........
+
+
+let array = [344, 59, 0, 67];
+
+array.foreach((element)=>{
+    element;
+})
+
+=>while loop.........
+
+let i = 0;
+
+while (i<=5){
+    //Statement...
+
+    increment/decrement
+}
+
+=> do while loop.........
+
+let i = 0;
+
+do{
+    //Statement...
+    increment/decrement
+}
+
+while(i<=5);
